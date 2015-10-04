@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /404.html
+Disallow: /404/
+Disallow: /css/
+Disallow: /scrollLoading/
+Disallow: /js/
+Disallow: /fancybox/
+Disallow: /CNAME
+Disallow: /*.css$
+Disallow: /*.js$
+Disallow: /atom.xml
+Disallow: /archives/
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /files/
+Disallow: /*trackback/
